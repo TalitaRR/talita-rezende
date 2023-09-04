@@ -1,0 +1,166 @@
+/*     A     */
+
+/*     B     */
+body {
+    margin: 0px;
+    text-align: center;
+}
+
+.bottom_container {
+    background-color: #FFE6FE;
+    padding-top: 30px;
+    padding-bottom: 15px;
+}
+
+/*     C     */
+.contact-me {
+    margin: 20px;
+}
+
+/*     D     */
+
+/*     E     */
+.email-p {
+    margin-top: 0;
+}
+
+/*     F     */
+
+/*     G     */
+
+/*     H     */
+h1 {
+    margin: 0px;
+    color: #94587d;
+    font-family: 'Dancing Script', sans-serif;
+    font-size: 400%;
+    line-height: 2;
+}
+
+h2 {
+    margin-top: 0px;
+    color: #94587d;
+    font-family: 'Tenor Sans', sans-serif;
+    font-size: 200%;
+}
+
+h3 {
+    margin-top: 0px;
+    color: #94587d;
+    font-family: 'Tenor Sans', sans-serif;
+    font-size: 165%;
+}
+
+.heart {
+    position: absolute;
+    left: 20%;
+    top: 10px;
+}
+
+hr {
+    color: #EEEEEE;
+    border-bottom-style: none;
+    border-left-style: none;
+    border-right-style: none;
+    border-top-style: dotted;
+    border-width: 20px;
+    height: 0px;
+    width: 80px;
+    padding-bottom: 80px;
+}
+
+/*     I     */
+
+/*     J     */
+
+/*     K     */
+
+/*     L     */
+.likes {
+    padding-bottom: 50px;
+}
+
+.likes-row {
+    margin: 50px auto;
+    width: 60%;
+    text-align: left;
+}
+
+.likes_icon {
+    float: left;
+    padding-right: 30px;
+}
+
+/*     M     */
+.me_img {
+    padding-top: 80px;
+}
+
+.medal-column {
+    display: inline-block;
+}
+
+.medals {
+    padding-bottom: 50px;
+}
+
+/*     N     */
+
+/*     O     */
+.obmep_img {
+    padding: 30px;
+}
+
+/*     P     */
+p {
+    color: #808080;
+    font-size: 128%;
+    font-family: 'Kulim Park', sans-serif;
+    line-height: 1.7;
+}
+
+.profile {
+    padding: 50px;
+}
+
+.profile-p {
+    margin: 0px;
+}
+
+.programmer {
+    font-size: 150%;
+}
+
+/*     Q     */
+
+/*     R     */
+
+/*     S     */
+
+/*     T     */
+.top_container {
+    position: relative;
+    padding-top: 250px;
+    background-color: #FFE6FE;
+}
+
+/*     U     */
+
+/*     V     */
+
+/*     W     */
+.window {
+    position: absolute;
+    right: 28%;
+    top: 50px;
+    height: 170px;
+    padding-bottom: 30px;
+}
+
+/*     X     */
+
+/*     Y     */
+
+/*     Z     */
+
+/*   OTHER   */
